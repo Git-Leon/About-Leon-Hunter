@@ -206,7 +206,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: var(--color1) !important;
+  background-image: var(--background-image);
 }
 
 .text-primary {
