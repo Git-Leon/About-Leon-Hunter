@@ -6,22 +6,23 @@
 
 
 :root {
-  --color1: rgb(27, 87, 72);
+  --color1: #0091ff;
   --color2: #00ffd5;
   --color3: #009133;
-  --body-color: #9ab19a;  
+  --body-color: #9ab19a;
   --h1-color: #00bb09;
   --h2-color: #00bb76;
   --subheading-color: #00bb67;
   --social-icon-color1: #495057;
   --social-icon-color2: #fff;  
   --img-profile-border-color: rgba(255, 255, 255, 0.2);
-  --background-color: #000000;
+  --background-color: #495057;
+  --background-image: linear-gradient(90deg, rgb(17, 70, 122), rgb(17, 122, 70));
 }
 
 p.lead,
 body {
-  background-color: var(--background-color);
+  background-image: var(--background-image);
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
   color: var(--body-color);

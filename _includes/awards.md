@@ -1,4 +1,3 @@
-
 <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
     <div class="w-100">
         <h2 class="mb-5">Certifications & Awards</h2>
